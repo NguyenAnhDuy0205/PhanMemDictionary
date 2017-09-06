@@ -1,0 +1,9 @@
+E:\PROJECT\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+E:\PROJECT\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\PROJECT\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\PROJECT\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+E:\PROJECT\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+E:\PROJECT\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+E:\PROJECT\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\PROJECT\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\PROJECT\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

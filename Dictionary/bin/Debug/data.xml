@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<DictionaryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <DictionaryData>
+      <Explaination>Từ mang ý nghĩa chào hỏi. Có thể dùng mỗi khi gặp một ai đó.</Explaination>
+      <Meaning>Xin chào</Meaning>
+      <Key>Hello</Key>
+    </DictionaryData>
+    <DictionaryData>
+      <Explaination>Gửi đến bạn một lời chào thân thương nhất</Explaination>
+      <Meaning>Xin chào Bao Tử Nhỏ</Meaning>
+      <Key>Hi</Key>
+    </DictionaryData>
+    <DictionaryData>
+      <Explaination>Từ mang ý nghĩa chào tạm biệt. Có thể dùng mỗi khi tạm biệt một ai đó.</Explaination>
+      <Meaning>Chào tạm biệt</Meaning>
+      <Key>Good bye</Key>
+    </DictionaryData>
+    <DictionaryData>
+      <Explaination>Tác giả dự án này .... ahihi</Explaination>
+      <Meaning>Nguyễn Anh Duy</Meaning>
+      <Key>Lucas</Key>
+    </DictionaryData>
+    <DictionaryData>
+      <Explaination>Là một người viết ra những chương trình như thế này</Explaination>
+      <Meaning>Lập trình viên</Meaning>
+      <Key>Developer</Key>
+    </DictionaryData>
+    <DictionaryData>
+      <Explaination>Một câu hỏi để nhìn lại bản thân coi mình là người như thế nào?</Explaination>
+      <Meaning>Bạn là ai?</Meaning>
+      <Key>Who am I?</Key>
+    </DictionaryData>
+  </Items>
+</DictionaryItem>
